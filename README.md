@@ -1,6 +1,6 @@
 # Checkers
 Checkers game. GUI written in Java. Server in python
-This game was first written in 2014 by me. Who tought commenting would be necessary.
+This game was first written in 2014 by me. Who thought commenting would be necessary.
 
 ## How to get startted
 
