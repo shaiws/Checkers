@@ -12,11 +12,22 @@ and then run the Main.java file.
 
 You will be promoted what king of game would you like, local game, means two players on the same PC, or Online game, which is two players from two different computers.
 
+![Game options](https://octodex.github.com/res/ChooseGame.png)
+
+
 In case you chose the online option, you first need to run 
 ```bash
  python3 server.py
 ```
 This will setup a websocket server on the localhost.
+
+Enjoy 😁
+
+![Game options](https://octodex.github.com/res/Game.png)
+
+
+
+
 
 ## TODO
 - [ ] Lots of bug fixes.
