@@ -19,7 +19,7 @@ In case you chose the online option, you first need to run
 ```bash
  python3 server.py
 ```
-This will setup a websocket server on the localhost.
+This will setup a websocket server on localhost.
 
 Enjoy 😁
 
