@@ -12,7 +12,7 @@ and then run the Main.java file.
 
 You will be promoted what kind of game would you like, local game, means two players on the same PC, or Online game, which is two players from two different computers.
 
-![Game options](https://octodex.github.com/res/ChooseGame.png)
+![Game options](https://raw.githubusercontent.com/shaiws/Checkers/master/src/res/ChooseGame.png)
 
 
 In case you chose the online option, you first need to run 
@@ -23,11 +23,7 @@ This will setup a websocket server on the localhost.
 
 Enjoy 😁
 
-![Game options](https://octodex.github.com/res/Game.png)
-
-
-
-
+![Game options](https://raw.githubusercontent.com/shaiws/Checkers/master/src/res/Game.png)
 
 ## TODO
 - [ ] Lots of bug fixes.
