@@ -10,10 +10,15 @@ git clone https://github.com/shaiws/Checkers.git
 ```
 and then run the Main.java file.
 
-You will be promoted what king of game would you like, local game, mean two players on the same PC, or Online game, which is two players from two different computers.
+You will be promoted what king of game would you like, local game, means two players on the same PC, or Online game, which is two players from two different computers.
 
 In case you chose the online option, you first need to run 
 ```bash
  python3 server.py
 ```
-This will setup a server on the localhost.
+This will setup a websocket server on the localhost.
+
+## TODO
+- [ ] Lots of bug fixes.
+- [ ] Some edge cases in the game logic.
+- [ ] Could be more.
