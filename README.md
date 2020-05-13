@@ -10,7 +10,7 @@ git clone https://github.com/shaiws/Checkers.git
 ```
 and then run the Main.java file.
 
-You will be promoted what king of game would you like, local game, means two players on the same PC, or Online game, which is two players from two different computers.
+You will be promoted what kind of game would you like, local game, means two players on the same PC, or Online game, which is two players from two different computers.
 
 In case you chose the online option, you first need to run 
 ```bash
