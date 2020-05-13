@@ -4,7 +4,7 @@ This game was first written in 2014 by me. Who thought commenting would be neces
 
 ## How to get startted
 
-Basicly, you just need to clone this repo
+Basically, you just need to clone this repo
 ```
 git clone https://github.com/shaiws/Checkers.git
 ```
